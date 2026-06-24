@@ -1,8 +1,0 @@
-name: MewdekoMC
-version: "1.0.0"
-main: tech.mewdeko.mc.MewdekoPlugin
-api-version: "1.21"
-description: Companion plugin for the Mewdeko Discord bot
-authors:
-  - SylveonDeko
-website: https://mewdeko.tech
